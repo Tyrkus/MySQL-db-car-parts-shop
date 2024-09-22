@@ -1,4 +1,3 @@
-# MySQL-db-car-parts-shop
 
 # Car Parts Store - MySQL Database
 
